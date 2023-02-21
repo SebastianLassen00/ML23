@@ -9,6 +9,8 @@ numpy = "*"
 ipykernel = "*"
 scikit-learn = "*"
 matplotlib = "*"
+fastai = "*"
+duckduckgo_search = "*"
 
 [dev-packages]
 
